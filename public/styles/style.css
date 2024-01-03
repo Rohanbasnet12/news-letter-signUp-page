@@ -59,7 +59,7 @@ body {
 
 .container {
     padding: 1em;
-    width: 60vw;
+    max-width: 60vw;
     height: 75vh;
     border: 2px solid white;
     border-radius: 1.3em;
